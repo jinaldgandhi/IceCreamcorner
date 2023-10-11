@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "19412824919",
+    "project_id": "icecreamcorner-2a275",
+    "storage_bucket": "icecreamcorner-2a275.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19412824919:android:d065d053114e274ef28412",
+        "android_client_info": {
+          "package_name": "com.example.icecreamcorner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG-Zn3UTLzfg_6CFd36uqP4FiK4ACES8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

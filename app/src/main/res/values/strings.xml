@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Icecream Corner</string>
+    <string name="open_nav"> Open Navigation Drawer</string>
+    <string name="close_nav">close Navigation Drawer</string>
+    <string name="email">Email</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="applogo">Icecream</string>
+    <string-array name="options">
+        <item>Chocolate</item>
+        <item>Vanilla</item>
+        <item>Strawberry</item>
+    </string-array>
+
+
+</resources>
